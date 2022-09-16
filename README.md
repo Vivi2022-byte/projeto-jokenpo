@@ -16,7 +16,7 @@ Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre trê
 
 Follow the steps to run the project:
 
-- [Clone repository or download it.](https://github.com/jpnathan/Jokenpo)
+- [Clone repository or download it.]
 - Go to the folder `cd jokenpo`
 - Run `npm install`
 - Run server `node index.js`
@@ -32,9 +32,4 @@ Follow the steps to run the project:
 ### Bugs and improvements
 - To fix bugs and suggest/make improvements in this project, just fork and send a pull request. You will be add as contributor.
 
-### Creators
-- [Phillip Freitas](https://github.com/jpnathan/)
 
-### Licensing
-
-- The code in this project is licensed under ISC license.
